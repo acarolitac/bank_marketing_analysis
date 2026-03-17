@@ -66,8 +66,9 @@ Alguns exemplos de insights que podem ser obtidos:
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 - Excel
 - Tabelas Dinâmicas
 - Gráficos
@@ -81,7 +82,7 @@ Transformar dados brutos em **insights estratégicos** que apoiem a área de mar
 
 ---
 
-## 📎 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 ```
 bank_marketing_analysis/
 │
