@@ -1,4 +1,6 @@
-# 📊 Análise do Perfil de Clientes para Campanha de Investimentos
+# 📊 Bank Marketing Analysis
+
+Projeto de **Análise de Dados**
 
 ## 📌 Contexto
 
