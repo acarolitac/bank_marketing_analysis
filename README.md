@@ -1,12 +1,10 @@
 # 📊 Análise do Perfil de Clientes para Campanha de Investimentos
 
-## 📌 Contexto do Projeto
+## 📌 Contexto
 
 Com a finalidade de entender melhor o perfil dos clientes para potencializar a venda de um produto de investimento, a área de marketing realizou uma campanha direcionada para parte da base de clientes.
 
-A campanha teve duração de **3 meses** e foi realizada **em todo o Brasil**. Após o seu encerramento, a equipe de marketing disponibilizou a base de dados `bank_marketing.xlsx` para que a área de Analytics realizasse uma análise sobre o perfil dos clientes e os resultados obtidos.
-
-O objetivo é gerar **insights que auxiliem na definição do público mais propenso a adquirir o produto em futuras campanhas**.
+A campanha teve duração de 3 meses e foi realizada em todo o Brasil. Após o seu encerramento, a equipe de marketing disponibilizou a base de dados `bank_marketing.xlsx` para que a área de Analytics realizasse uma análise sobre o perfil dos clientes e os resultados obtidos.
 
 ---
 
@@ -29,8 +27,6 @@ A base utilizada contém informações sobre os clientes, incluindo:
 - Possui hipoteca
 - Possui empréstimo
 
-Essas variáveis permitem analisar características demográficas, financeiras e comportamentais dos clientes.
-
 ---
 
 ## 🔎 Análise Exploratória de Dados (EDA)
@@ -42,7 +38,7 @@ As análises incluíram:
 - Distribuição de clientes por idade
 - Perfil profissional dos clientes
 - Relação entre estado civil e adesão ao investimento
-- Impacto do nível de escolaridade
+- Relação entre escolaridade e adesão ao investimento
 - Situação de crédito dos clientes
 - Relação com outros produtos financeiros (hipoteca e empréstimo)
 
@@ -61,8 +57,8 @@ Além da análise exploratória, foi desenvolvido um **dashboard no Excel** para
 Alguns exemplos de insights que podem ser obtidos:
 
 - Faixa etária com maior adesão ao investimento
-- Profissões com maior probabilidade de conversão
-- Relação entre nível educacional e interesse em investimentos
+- Profissões com maior adesão ao investimento
+- Relação entre escolaridade e interesse em investimentos
 - Impacto da situação de crédito na decisão de compra
 - Relação entre possuir outros produtos financeiros e aderir ao investimento
 
